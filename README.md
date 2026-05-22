@@ -4,7 +4,7 @@ Founder/operator building products around games, markets, and communities.
 
 I am currently focused on [PokerWorks](https://pokerworks.io), a poker platform company working on real-time play-money poker, transparent fairness, and tools for people who build, study, and run poker games.
 
-Previously I owned and ran Replay Poker, one of the leading play-for-fun poker sites, until its acquisition in 2020. I also founded [Trade2Win](https://www.trade2win.com), a long-running online community for financial traders.
+I also run [Trade2Win](https://www.trade2win.com), a long-running online community for financial traders. Previously I owned and ran Replay Gaming, the company behind Replay Poker; the Replay Poker IP was sold to Legend in 2020. Legend later agreed to be acquired by Genius Sports in a transaction valued at up to $1.2B.
 
 ## Current Work
 
