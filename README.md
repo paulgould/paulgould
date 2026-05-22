@@ -17,5 +17,6 @@ Earlier work includes Dynamite Partners, a London web studio; Nudge Social Media
 ## Links
 
 - [PokerWorks](https://pokerworks.io)
+- [Trade2Win](https://www.trade2win.com)
 - [LinkedIn](https://www.linkedin.com/in/gouldpaul/)
 - [X](https://x.com/paulgould)
